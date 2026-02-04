@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Publications
 description: Writings on heritage and disasters
 image: assets/images/gjirosheep.jpg
