@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Publications
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: Writings on heritage and disasters
+image: assets/images/gjirosheep.jpg
 nav-menu: true
 ---
+<a href="https://eaton-j.github.io/assets/docs/Academic CV_Eaton 2025.11.pdf" class="button fit" target="blank">Download my academic CV</a>
 
 ## Academic publications
 
@@ -29,5 +30,3 @@ Hadžić, L. and **J. Eaton**. 2017. Rebuilding the Broken: Regional Restoration
 **Eaton, J.** and S. Shneiderman. 2023. As we fight the Alberta and B.C. wildfires, we must also plan for future disasters. *The Conversation*. <a href="https://theconversation.com/as-we-fight-the-alberta-and-b-c-wildfires-we-must-also-plan-for-future-disasters-205818" target="blank">Link to article</a>
 
 Bllaci, M, **J. Eaton**, N. Petri, and K. Rocker. 2016. A Dialogue Toolkit: Tips and Techniques from the Dialogues for Spaç Project. Cultural Heritage without Borders-Albania and the International Coalition of Sites of Conscience. <a href="https://www.sitesofconscience.org/wp-content/uploads/2018/08/Spac-Toolkit-2017-Final.pdf" target="blank">Available here</a>
-
-<a href="https://eaton-j.github.io/assets/docs/Academic CV_Eaton 2025.11.pdf" class="button fit">Download my academic CV</a>
