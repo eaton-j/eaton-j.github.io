@@ -17,7 +17,31 @@ published: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Read</h2>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h2>Listen</h2>
+		<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td><a href="https://podcasts.apple.com/ca/podcast/the-conversation-lab/id1463409525" target="blank">The Conversation Lab with Don Shafer</a>, "Jonathan Eaton - Disaster Preparedness"</td>
+				<td>Nov. 16, 2025</td>
+				<td><a href="https://www.spreaker.com/episode/jonathan-eaton-disaster-preparedness--68594776" target="blank" class="button small">Listen here</a></td>
+			</tr>
+			<tr>
+				<td>Radio interview on Global News QR Calgary with Angela Kokott</td>
+				<td>May 19, 2023</td>
+				<td><a href="https://on.soundcloud.com/Be5aY" target="blank" class="button small">Listen here</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h2>Watch</h2>
+ <iframe width="500" height="282" src="https://www.youtube.com/embed/i5Z_uZAIcL0" title="Jonathan Eaton: Heritage and Disaster | UBC&#39;s PhD&#39;s go Public Series" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
+	<h2 id="content">Read</h2>
 <div class="table-wrapper">
 	<table>
 		<tbody>
@@ -44,28 +68,4 @@ published: true
 		</tbody>
 	</table>
 </div>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h2>Listen</h2>
-		<div class="table-wrapper">
-	<table>
-		<tbody>
-			<tr>
-				<td><a href="https://podcasts.apple.com/ca/podcast/the-conversation-lab/id1463409525" target="blank">The Conversation Lab with Don Shafer</a>, "Jonathan Eaton - Disaster Preparedness"</td>
-				<td>Nov. 16, 2025</td>
-				<td><a href="https://www.spreaker.com/episode/jonathan-eaton-disaster-preparedness--68594776" target="blank" class="button small">Listen here</a></td>
-			</tr>
-			<tr>
-				<td>Radio interview on Global News QR Calgary with Angela Kokott</td>
-				<td>May 19, 2023</td>
-				<td><a href="https://on.soundcloud.com/Be5aY" target="blank" class="button small">Listen here</a></td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h2>Watch</h2>
- <iframe width="500" height="282" src="https://www.youtube.com/embed/i5Z_uZAIcL0" title="Jonathan Eaton: Heritage and Disaster | UBC&#39;s PhD&#39;s go Public Series" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	</div>
 	<!-- Break -->
