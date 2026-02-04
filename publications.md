@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 description: Writings on heritage and disasters
-image: assets/images/gjirosheep.jpg
+image: assets/images/gjiro-sheep.jpg
 nav-menu: true
 ---
 <a href="https://eaton-j.github.io/assets/docs/Academic CV_Eaton 2025.11.pdf" class="button fit" target="blank">Download my academic CV</a>
