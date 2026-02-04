@@ -40,6 +40,7 @@ published: true
 				<td><i>The Conversation</i>, "As we fight the Alberta and B.C. wildfires, we must also plan for future disasters"</td>
 				<td>May 17, 2023</td>
 				<td><a href="https://theconversation.com/as-we-fight-the-alberta-and-b-c-wildfires-we-must-also-plan-for-future-disasters-205818" target="blank" class="button small">Read here</a></td>
+			</tr>
 		</tbody>
 	</table>
 </div>
