@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Jonathan Eaton
+subtitle: Cultural Anthropologist
+email: jonathan.eaton@ubc.ca
+description: I study the relationship between heritage and disaster recovery planning to help people preserve what they value in the face of uncertain futures.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://eaton-j.github.io # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: 
+state: 
+zip_code:
+country: Canada and USA
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,16 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/jonathan-e-30805322/
+  Twitter: 
   Facebook:
   Slack:
+  Google-Scholar: https://scholar.google.com/citations?user=5SjIWHYAAAAJ&hl=en
+  ORCID: https://orcid.org/0000-0001-8681-4707
 
 # build settings
 markdown: kramdown
