@@ -67,7 +67,7 @@ published: true
 	<div class="6u$ 12u$(small)">
 		<h3>Watch</h3>
 <div class="box">
- <iframe width="1221" height="687" src="https://www.youtube.com/embed/i5Z_uZAIcL0" title="Jonathan Eaton: Heritage and Disaster | UBC&#39;s PhD&#39;s go Public Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <iframe width="420" height="240" src="https://www.youtube.com/embed/i5Z_uZAIcL0" title="Jonathan Eaton: Heritage and Disaster | UBC&#39;s PhD&#39;s go Public Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 	</div>
 	<!-- Break -->
