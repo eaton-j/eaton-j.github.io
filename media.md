@@ -17,52 +17,59 @@ published: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Print</h2>
+<h2 id="content">Read</h2>
 <div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>CTV News, "More community support needed before Vancouver feels ready to respond to disasters, says study"</td>
+				<td>Oct. 8, 2025</td>
+				<td><a href="https://www.ctvnews.ca/vancouver/article/more-community-support-needed-before-vancouver-feels-ready-to-respond-to-disasters-says-study/" target="blank" class="button small">Read here</a></td>
+			</tr>
+			<tr>
+				<td>UBC News, "Vancouver residents motivated to prepare for disasters, but seek more support and connection"</td>
+				<td>Oct. 2, 2025</td>
+				<td><a href="https://news.ubc.ca/2025/10/vancouver-disaster-preparedness/" target="blank" class="button small">Read here</a></td>
+			</tr>
+			<tr>
+				<td><i>Modern Farmer</i>, "Canada’s Wildfires Threaten Its Farmers From All Sides"</td>
+				<td>Jun. 24, 2023</td>
+				<td><a href="https://modernfarmer.com/2023/06/canadas-wildfires-threaten-its-farmers-from-all-sides/" target="blank" class="button small">Read here</a></td>
+			</tr>
+			<tr>
+				<td><i>The Conversation</i>, "As we fight the Alberta and B.C. wildfires, we must also plan for future disasters"</td>
+				<td>May 17, 2023</td>
+				<td><a href="https://theconversation.com/as-we-fight-the-alberta-and-b-c-wildfires-we-must-also-plan-for-future-disasters-205818" target="blank" class="button small">Read here</a></td>
+		</tbody>
+	</table>
+</div>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Listen</h3>
+		<div class="table-wrapper">
 	<table>
 		<tbody>
 			<tr>
 				<td><a href="https://podcasts.apple.com/ca/podcast/the-conversation-lab/id1463409525" target="blank">The Conversation Lab with Don Shafer</a>, "Jonathan Eaton - Disaster Preparedness"</td>
 				<td>Nov. 16, 2025</td>
-				<td><a href="https://www.spreaker.com/episode/jonathan-eaton-disaster-preparedness--68594776" class="button small">Listen here</a></td>
+				<td><a href="https://www.spreaker.com/episode/jonathan-eaton-disaster-preparedness--68594776" target="blank" class="button small">Listen here</a></td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
+				<td>Radio interview on Global News QR Calgary with Angela Kokott</td>
+				<td>May 19, 2023</td>
+				<td><a href="https://on.soundcloud.com/Be5aY" target="blank" class="button small">Listen here</a></td>
 			</tr>
 		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
 	</table>
 </div>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Radio</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Video</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Watch</h3>
+<div class="box">
+ <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=i5Z_uZAIcL0">
+</iframe> 
+</div>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
