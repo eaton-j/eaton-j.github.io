@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media engagement
-image: assets/images/pic01.jpg
+image: assets/images/gjiro-trail.jpg
 nav-menu: true
 published: true
 ---
