@@ -7,6 +7,16 @@ nav-menu: true
 ---
 <a href="https://eaton-j.github.io/assets/docs/Academic CV_Eaton 2025.11.pdf" class="button fit" target="blank">Download my academic CV</a>
 
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Elements</h1>
+		</header>
+
 ## Academic publications
 
 Milne, C., T. Legere, **J. Eaton**, S. Shneiderman, and C. Molina Hutt. 2024. The state of disaster and resilience literature in British Columbia, Canada. A systematic scoping review. *International Journal of Disaster Risk Reduction* 113. doi: <a href="https://doi.org/10.1016/j.ijdrr.2024.104848" target="blank">10.1016/j.ijdrr.2024.104848</a>
@@ -30,3 +40,5 @@ Hadžić, L. and **J. Eaton**. 2017. Rebuilding the Broken: Regional Restoration
 **Eaton, J.** and S. Shneiderman. 2023. As we fight the Alberta and B.C. wildfires, we must also plan for future disasters. *The Conversation*. <a href="https://theconversation.com/as-we-fight-the-alberta-and-b-c-wildfires-we-must-also-plan-for-future-disasters-205818" target="blank">Link to article</a>
 
 Bllaci, M, **J. Eaton**, N. Petri, and K. Rocker. 2016. A Dialogue Toolkit: Tips and Techniques from the Dialogues for Spaç Project. Cultural Heritage without Borders-Albania and the International Coalition of Sites of Conscience. <a href="https://www.sitesofconscience.org/wp-content/uploads/2018/08/Spac-Toolkit-2017-Final.pdf" target="blank">Available here</a>
+
+</div>
