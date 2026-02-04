@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Publications
 description: Writings on heritage and disasters
 image: assets/images/gjiro-sheep.jpg
@@ -21,7 +21,7 @@ Rocker, K. and **J. Eaton**. 2022. Acting Out the Future of the Albanian Nationa
 
 Hadžić, L. and **J. Eaton**. 2017. Rebuilding the Broken: Regional Restoration Camps as a Meeting Platform in the Western Balkans. In *Heritage and Peacebuilding*. Eds. Diana Walters, Daniel Laven & Peter Davis. Suffolk, UK: Boydell & Brewer, 205-219. <a href="https://www.cambridge.org/core/books/abs/heritage-and-peacebuilding/rebuilding-the-broken-regional-restoration-camps-as-a-meeting-platform-in-the-western-balkans/A6A103D30457C8CFB1ED8D5A5674445C" target="blank">Publisher e-book link</a>
 
-**Eaton, J.** and E. Roshi. 2014. Chiseling away at a concrete legacy: Engaging with Communist-era heritage and memory in Albania. Journal of Field Archaeology 39(3), 312-319. doi: <a href="https://doi.org/10.1179/0093469014Z.00000000084" target="blank">10.1179/0093469014Z.00000000084</a>
+**Eaton, J.** and E. Roshi. 2014. Chiseling away at a concrete legacy: Engaging with Communist-era heritage and memory in Albania. *Journal of Field Archaeology* 39(3), 312-319. doi: <a href="https://doi.org/10.1179/0093469014Z.00000000084" target="blank">10.1179/0093469014Z.00000000084</a>
 
 ## Reports & public commentary
 
