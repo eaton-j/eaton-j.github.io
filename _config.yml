@@ -30,7 +30,7 @@ socials:
   Twitter: 
   Facebook:
   Slack:
-  fa-orcid: https://orcid.org/0000-0001-8681-4707
+  orcid: https://orcid.org/0000-0001-8681-4707
 
 # build settings
 markdown: kramdown
