@@ -76,6 +76,13 @@
 						</li>
 					{% endif %}
 				{% endfor %}
+				{% if site.orcid %}
+		<li>
+			<a href="{{ site.orcid }}" class="icon alt orcid-icon" target="_blank" rel="me noopener noreferrer" aria-label="ORCID">
+				<span class="label">ORCID</span>
+			</a>
+		</li>
+	{% endif %}
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
