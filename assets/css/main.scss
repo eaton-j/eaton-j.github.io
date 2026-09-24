@@ -79,14 +79,18 @@
 	@import 'layout/wrapper';
 	@import 'layout/menu';
 
-// ORCID icon
+// ORCID icon (Font Awesome 6 Brands — not included in this theme's bundled FA4)
+@font-face {
+	font-family: 'Font Awesome 6 Brands';
+	font-style: normal;
+	font-weight: 400;
+	font-display: block;
+	src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2') format('woff2'),
+	     url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.ttf') format('truetype');
+}
+
 .icons li .icon.orcid-icon:before {
-	content: '';
-	display: inline-block;
-	width: 1em;
-	height: 1em;
-	background-image: url('https://info.orcid.org/wp-content/uploads/2020/12/ORCIDiD_icon16x16.png');
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
+	font-family: 'Font Awesome 6 Brands';
+	font-weight: 400;
+	content: "\f8d2"; // this is the fa-orcid glyph codepoint
 }
