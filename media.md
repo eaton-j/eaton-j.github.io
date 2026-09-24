@@ -24,7 +24,7 @@ published: true
 	<table>
 		<tbody>
 			<tr>
-				<td>Society for Cultural Anthropology's<a href="https://www.culanth.org/fieldsights/aaa-2025-part-3-environment-disaster-viable-futures" target="blank">AnthroPod podcast</a>, "AAA 2025 Part 3: Environment, Disaster, Viable Futures"</td>
+				<td>Society for Cultural Anthropology's <a href="https://www.culanth.org/fieldsights/aaa-2025-part-3-environment-disaster-viable-futures" target="blank">AnthroPod podcast</a>, "AAA 2025 Part 3: Environment, Disaster, Viable Futures"</td>
 				<td>Sept. 24, 2026</td>
 				<td><a href="https://on.soundcloud.com/t8Qc59tQaFmvN7aTVN" target="blank" class="button small">Listen here</a></td>
 			</tr>
