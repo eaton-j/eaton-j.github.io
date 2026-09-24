@@ -30,7 +30,9 @@ socials:
   Twitter: 
   Facebook:
   Slack:
-  orcid: https://orcid.org/0000-0001-8681-4707
+
+#orcid config variable
+orcid: https://orcid.org/0000-0001-8681-4707
 
 # build settings
 markdown: kramdown
