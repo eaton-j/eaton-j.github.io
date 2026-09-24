@@ -24,6 +24,11 @@ published: true
 	<table>
 		<tbody>
 			<tr>
+				<td><a href="https://podcasts.apple.com/ca/podcast/the-conversation-lab/id1463409525" target="blank">Society for Cultural Anthropology's AnthroPod podcast</a>, "AAA 2025 Part 3: Environment, Disaster, Viable Futures"</td>
+				<td>Sept. 24, 2026</td>
+				<td><a href="https://soundcloud.com/cultural-anthropology/93-aaa-2025-part-3-environment?si=860c45b63de44cf1a55506e9a6be1510&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=49%3A46" target="blank" class="button small">Listen here</a></td>
+			</tr>
+			<tr>
 				<td><a href="https://podcasts.apple.com/ca/podcast/the-conversation-lab/id1463409525" target="blank">The Conversation Lab with Don Shafer</a>, "Jonathan Eaton - Disaster Preparedness"</td>
 				<td>Nov. 16, 2025</td>
 				<td><a href="https://www.spreaker.com/episode/jonathan-eaton-disaster-preparedness--68594776" target="blank" class="button small">Listen here</a></td>
