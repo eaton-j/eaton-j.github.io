@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>Publications</h1>
 		</header>
 <span class="image fit"><img src="{% link assets/images/gjiro-sheep-top.jpg %}" alt="" /></span>
-<a href="https://eaton-j.github.io/assets/docs/Academic CV_Eaton 2025.11.pdf" class="button fit" target="blank">Download my academic CV</a>
+<a href="https://eaton-j.github.io/assets/docs/Academic CV_Eaton 2026.10.pdf" class="button fit" target="blank">Download my academic CV</a>
 
 <h2>Academic publications</h2>
 
